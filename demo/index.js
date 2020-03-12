@@ -3,7 +3,7 @@ $(document).ready(()=>{
         navigations_circles: true,
         navigations_sides: true,
         animation: true,
-        sequential: true,
+        sequential: false,
         time: 3000
     });
 });
